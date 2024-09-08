@@ -4,3 +4,4 @@ package.json
 package-lock.json
 wallet.json
 metadata.js
+fungible.js
